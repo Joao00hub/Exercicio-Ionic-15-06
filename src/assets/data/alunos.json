@@ -1,0 +1,20 @@
+{
+    "alunos":[
+        {
+            "id":1,
+            "nome": "João",
+            "sobrenome": "Lima",
+            "email": "email@dojao",
+            "ra": "320138701",
+            "idade": "24"
+        },
+        {
+            "id":1,
+            "nome": "Anna",
+            "sobrenome": "Thereza",
+            "email": "email@daanna",
+            "ra": "893127622",
+            "idade": "21"
+        }
+    ]
+}
